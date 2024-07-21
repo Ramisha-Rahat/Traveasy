@@ -10,3 +10,6 @@ Features:
 <li>payment via pdf</li>
 <li>Admin panel</li>
 <li>Contacting to our Company</li>
+
+<h5>The documentation of our project is as follows:</h5>
+[TRAVEASY REPORT.docx](https://github.com/user-attachments/files/16323326/TRAVEASY.REPORT.docx)
